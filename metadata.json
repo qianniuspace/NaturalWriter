@@ -1,0 +1,5 @@
+{
+  "name": "NaturalWriter",
+  "description": "An application that analyzes text for AI generation, then rewrites it to sound more human and bypass AI detection tools, helping you create authentic content.",
+  "requestFramePermissions": []
+}
